@@ -1,8 +1,10 @@
 astroid==2.4.2
+autopep8==1.5.5
 isort==5.7.0
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
 pkg-resources==0.0.0
+pycodestyle==2.6.0
 pylint==2.6.0
 RPi.GPIO==0.7.0
 six==1.15.0
